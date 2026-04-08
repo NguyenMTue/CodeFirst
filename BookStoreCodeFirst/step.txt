@@ -1,0 +1,5 @@
+B1: khởi tạo dự án
+
+dotnet new mvc -n NameProject
+
+b2:
