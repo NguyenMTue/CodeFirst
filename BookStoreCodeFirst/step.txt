@@ -10,3 +10,6 @@ b3 tạo class model
 
 b4 Tạo lớp DbContext
 new folder data và class ApplicationDbContext
+
+b5  Cấu hình Chuỗi kết nối và Program.cs
+vào appsettings.json và thêm ConnectionStrings
