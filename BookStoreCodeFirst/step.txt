@@ -13,3 +13,9 @@ new folder data và class ApplicationDbContext
 
 b5  Cấu hình Chuỗi kết nối và Program.cs
 vào appsettings.json và thêm ConnectionStrings
+đăng ký conec trong program
+
+b6 Tạo bản ghi Migration
+dotnet add package Microsoft.EntityFrameworkCore.Design (nếu lỗi thiếu thư viện)
+ dotnet ef migrations add InitialCreate
+ dotnet ef database update --.> tạo databasse

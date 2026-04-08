@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using BookStoreCodeFirst.Models;
 
 namespace BookStoreCodeFirst.Data
 {
