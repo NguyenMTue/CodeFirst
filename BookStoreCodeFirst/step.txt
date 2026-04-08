@@ -2,4 +2,6 @@ B1: khởi tạo dự án
 
 dotnet new mvc -n NameProject
 
-b2:
+b2:Cài đặt các thư viện EF Core
+
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
